@@ -6,5 +6,4 @@ const piglatin = function(arr) {
     console.log(str);
   }
 };
-
 piglatin(process.argv);
